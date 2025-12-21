@@ -2,7 +2,7 @@
 
 ## CPU는 어떻게 작동할까?
 
-[![](https://img.youtube.com/vi/Fg00LN30Ezg/mqdefault.jpg)](https://www.youtube.com/watch?v=Fg00LN30Ezg) bRd 3D
+[![](https://img.youtube.com/vi/Fg00LN30Ezg/default.jpg)](https://www.youtube.com/watch?v=Fg00LN30Ezg) bRd 3D
 
 ### 핵심요약
 
@@ -23,7 +23,7 @@
 
 2진법, C언어, 알고리즘. 등등.
 
-- [![](https://img.youtube.com/vi/2WtPyqwTLKM/mqdefault.jpg)](https://www.youtube.com/watch?v=2WtPyqwTLKM&list=PLhQjrBD2T383q7Vn8QnTsVgSvyLpsqL_R&index=2)
+- [![](https://img.youtube.com/vi/2WtPyqwTLKM/default.jpg)](https://www.youtube.com/watch?v=2WtPyqwTLKM&list=PLhQjrBD2T383q7Vn8QnTsVgSvyLpsqL_R&index=2)
 - https://www.boostcourse.org/cs112/lecture/118997 (부스트에도 있다. 크롬에서 들어야 자막나옴. 짧게 잘라놔서 고마움)
 
 **Lecture 0** 이진법. 스크래치. 8분부터. 1시간50분짜리. => 그냥 보기만 하고 이해하면 됨.
@@ -59,7 +59,7 @@ CS50에 이어 깊은 개념까지. 45분짜리 21개. 기억나는 것들은 �
 
 5시간짜리. 복습하는 느낌으로? 한국어니까. 친숙하게? 지루하면 안들어도 괜춘?
 
-- [![](https://img.youtube.com/vi/mEEVrv7rvFY/mqdefault.jpg)](https://www.youtube.com/watch?v=mEEVrv7rvFY)
+- [![](https://img.youtube.com/vi/mEEVrv7rvFY/default.jpg)](https://www.youtube.com/watch?v=mEEVrv7rvFY)
 
 ### C언어 끝나면
 
@@ -76,14 +76,14 @@ Chap1 그냥 듣는 것으로 충분.
 
 ### CS50 python 13시간
 
-- [![](https://img.youtube.com/vi/nLRL_NcnK-4/mqdefault.jpg)](https://www.youtube.com/watch?v=nLRL_NcnK-4) (통짜)
+- [![](https://img.youtube.com/vi/nLRL_NcnK-4/default.jpg)](https://www.youtube.com/watch?v=nLRL_NcnK-4) (통짜)
 - https://www.youtube.com/playlist?list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V (1~2시간짜리 10개)
 
 ## Lisp
 
 1986 MIT 강의
 
-- [![](https://img.youtube.com/vi/-J_xL4IGhJA/mqdefault.jpg)](https://www.youtube.com/watch?v=-J_xL4IGhJA&list=PLE18841CABEA24090)
+- [![](https://img.youtube.com/vi/-J_xL4IGhJA/default.jpg)](https://www.youtube.com/watch?v=-J_xL4IGhJA&list=PLE18841CABEA24090)
 
 ## 장고, DB
 
@@ -101,7 +101,7 @@ Chap1 그냥 듣는 것으로 충분.
 
 - 카네기멜론 https://www.youtube.com/playlist?list=PLSE8ODhjZXjYDBpQnSymaectKjxCy6BYq
 - 하버드 https://learning.edx.org/course/course-v1:HarvardX+CS50SQL+SQL/home
-- [![](https://img.youtube.com/vi/WXk7yDqsKxs/mqdefault.jpg)](https://www.youtube.com/watch?v=WXk7yDqsKxs&list=WL&index=2)
+- [![](https://img.youtube.com/vi/WXk7yDqsKxs/default.jpg)](https://www.youtube.com/watch?v=WXk7yDqsKxs&list=WL&index=2)
 
 ## 네트워크
 
@@ -183,7 +183,7 @@ CMU, 버클리는 더심화?
 
 ### 라이브러리없는 헬로월드
 
-- [![](https://img.youtube.com/vi/gVaXLlGqQ-c/mqdefault.jpg)](https://www.youtube.com/watch?v=gVaXLlGqQ-c&list=WL&index=2)
+- [![](https://img.youtube.com/vi/gVaXLlGqQ-c/default.jpg)](https://www.youtube.com/watch?v=gVaXLlGqQ-c&list=WL&index=2)
 
 ### 위스콘신 강의 (C프로그램 컴파일하고 어셈보면서 얘기하고 그러심)
 
@@ -196,9 +196,9 @@ CMU, 버클리는 더심화?
 
 ## OOP
 
-- [![](https://img.youtube.com/vi/DNCBaeCoMug/mqdefault.jpg)](https://www.youtube.com/watch?v=DNCBaeCoMug) 나도코딩 자바 강의
+- [![](https://img.youtube.com/vi/DNCBaeCoMug/default.jpg)](https://www.youtube.com/watch?v=DNCBaeCoMug) 나도코딩 자바 강의
 - 뉴렉처 자바 https://www.youtube.com/playlist?list=PLq8wAnVUcTFVumZtWpBeZgK3iDEXmiMA1
-- [![](https://img.youtube.com/vi/vLnPwxZdW4Y/mqdefault.jpg)](https://www.youtube.com/watch?v=vLnPwxZdW4Y) C++ 기초
+- [![](https://img.youtube.com/vi/vLnPwxZdW4Y/default.jpg)](https://www.youtube.com/watch?v=vLnPwxZdW4Y) C++ 기초
 - C++ 10 시간 https://www.youtube.com/playlist?list=PL_c9BZzLwBRJVJsIfe97ey45V4LP_HXiG
 - 메시징이예요. https://x.com/vpark45/status/1988150329079460322
 
@@ -210,7 +210,7 @@ CMU, 버클리는 더심화?
 
 ### 이건 내가 공부해야하나? ML 수학.
 
-- [![](https://img.youtube.com/vi/HU91yMSTU0Y/mqdefault.jpg)](https://www.youtube.com/watch?v=HU91yMSTU0Y&list=PLgPbN3wia_PeT1_c5jiLW3RJdR7853b9&index=4)
+- [![](https://img.youtube.com/vi/HU91yMSTU0Y/default.jpg)](https://www.youtube.com/watch?v=HU91yMSTU0Y&list=PLgPbN3wia_PeT1_c5jiLW3RJdR7853b9&index=4)
 
 ### 함수는 벡터다.
 
@@ -218,7 +218,7 @@ CMU, 버클리는 더심화?
 
 ### 일리야 수츠케버
 
-[![](https://img.youtube.com/vi/AKMuA_TVz3A/mqdefault.jpg)](https://www.youtube.com/watch?v=AKMuA_TVz3A)
+[![](https://img.youtube.com/vi/AKMuA_TVz3A/default.jpg)](https://www.youtube.com/watch?v=AKMuA_TVz3A)
 
 ### ML 알고리즘 간단 설명. 파이썬 코드
 
@@ -245,8 +245,8 @@ Deep Learning for computer vision. Stanford, by Fei-Fei Li et al.
 ## 추가
 
 - 리눅스 사용법(ssh, permissions) https://x.com/TowardsAws/status/1993673784667357664
-- [![](https://img.youtube.com/vi/lG90LZotrpo/mqdefault.jpg)](https://www.youtube.com/watch?v=lG90LZotrpo) Git Internal
-- [![](https://img.youtube.com/vi/fFHlfbKVi30/mqdefault.jpg)](https://www.youtube.com/watch?v=fFHlfbKVi30) neovim setup 일본방에서
+- [![](https://img.youtube.com/vi/lG90LZotrpo/default.jpg)](https://www.youtube.com/watch?v=lG90LZotrpo) Git Internal
+- [![](https://img.youtube.com/vi/fFHlfbKVi30/default.jpg)](https://www.youtube.com/watch?v=fFHlfbKVi30) neovim setup 일본방에서
 
 ### 릿코드
 
