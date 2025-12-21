@@ -13,8 +13,8 @@
 
 ### 비슷한 주제들 다른 방식의 설명들
 
-- [![](https://img.youtube.com/vi/Z5JC9Ve1sfI/mqdefault.jpg)](https://www.youtube.com/watch?v=Z5JC9Ve1sfI&list=WL&index=2)
-- [![](https://img.youtube.com/vi/pDELW2pIvWw/mqdefault.jpg)](https://www.youtube.com/watch?v=pDELW2pIvWw&list=WL&index=2)
+- https://www.youtube.com/watch?v=Z5JC9Ve1sfI
+- https://www.youtube.com/watch?v=pDELW2pIvWw
 - [![](https://img.youtube.com/vi/HjneAhCy2N4/mqdefault.jpg)](https://www.youtube.com/watch?v=HjneAhCy2N4&list=WL&index=2)
 - [![](https://img.youtube.com/vi/_Pqfjer8-O4/mqdefault.jpg)](https://www.youtube.com/watch?v=_Pqfjer8-O4&list=WL&index=4)
 - [![](https://img.youtube.com/vi/tadUeiNe5-g/mqdefault.jpg)](https://www.youtube.com/watch?v=tadUeiNe5-g&list=WL&index=4) (주변기기랑 통신)
@@ -23,8 +23,8 @@
 
 2진법, C언어, 알고리즘. 등등.
 
-- [![](https://img.youtube.com/vi/2WtPyqwTLKM/mqdefault.jpg)](https://www.youtube.com/watch?v=2WtPyqwTLKM&list=PLhQjrBD2T383q7Vn8QnTsVgSvyLpsqL_R&index=2) (부스트에도 있다. 크롬에서 들어야 자막나옴. 짧게 잘라놔서 고마움)
-- https://www.boostcourse.org/cs112/lecture/118997
+- [![](https://img.youtube.com/vi/2WtPyqwTLKM/mqdefault.jpg)](https://www.youtube.com/watch?v=2WtPyqwTLKM&list=PLhQjrBD2T383q7Vn8QnTsVgSvyLpsqL_R&index=2)
+- https://www.boostcourse.org/cs112/lecture/118997 (부스트에도 있다. 크롬에서 들어야 자막나옴. 짧게 잘라놔서 고마움)
 
 **Lecture 0** 이진법. 스크래치. 8분부터. 1시간50분짜리. => 그냥 보기만 하고 이해하면 됨.
 
@@ -97,7 +97,7 @@ Chap1 그냥 듣는 것으로 충분.
 
 - 생코 https://www.youtube.com/playlist?list=PLuHgQVnccGMDF6rHsY9qMuJMd295Yk4sa
 
-### CMU, 하버드는 기분나면?
+### 여기는 기분나면?
 
 - 카네기멜론 https://www.youtube.com/playlist?list=PLSE8ODhjZXjYDBpQnSymaectKjxCy6BYq
 - 하버드 https://learning.edx.org/course/course-v1:HarvardX+CS50SQL+SQL/home
@@ -111,15 +111,15 @@ Chap1 그냥 듣는 것으로 충분.
 
 그중 필수는 다음들.
 
-- [![](https://img.youtube.com/vi/eYdjpoBybNQ/mqdefault.jpg)](https://www.youtube.com/watch?v=eYdjpoBybNQ&list=PLVsNizTWUw7HfOCgvlfHIDPPo3TE-2iQM&index=15)
-- [![](https://img.youtube.com/vi/rPbquztSupM/mqdefault.jpg)](https://www.youtube.com/watch?v=rPbquztSupM&list=PLVsNizTWUw7HfOCgvlfHIDPPo3TE-2iQM&index=20)
-- [![](https://img.youtube.com/vi/bI8woqPQFWg/mqdefault.jpg)](https://www.youtube.com/watch?v=bI8woqPQFWg&list=PLVsNizTWUw7HfOCgvlfHIDPPo3TE-2iQM&index=21)
-- [![](https://img.youtube.com/vi/aVvr1Rz5zRo/mqdefault.jpg)](https://www.youtube.com/watch?v=aVvr1Rz5zRo&list=PLVsNizTWUw7HfOCgvlfHIDPPo3TE-2iQM&index=22)
-- [![](https://img.youtube.com/vi/WEUQ559AWEw/mqdefault.jpg)](https://www.youtube.com/watch?v=WEUQ559AWEw&list=PLVsNizTWUw7HfOCgvlfHIDPPo3TE-2iQM&index=24)
-- [![](https://img.youtube.com/vi/YR6Wlhs8uk0/mqdefault.jpg)](https://www.youtube.com/watch?v=YR6Wlhs8uk0&list=PLVsNizTWUw7HfOCgvlfHIDPPo3TE-2iQM&index=25)
-- [![](https://img.youtube.com/vi/SJgnp7JZ3xE/mqdefault.jpg)](https://www.youtube.com/watch?v=SJgnp7JZ3xE&list=PLVsNizTWUw7HfOCgvlfHIDPPo3TE-2iQM&index=26)
-- [![](https://img.youtube.com/vi/GEQZ3f6Pji8/mqdefault.jpg)](https://www.youtube.com/watch?v=GEQZ3f6Pji8&list=PLVsNizTWUw7HfOCgvlfHIDPPo3TE-2iQM&index=29)
-- [![](https://img.youtube.com/vi/RYntXWKDqLo/mqdefault.jpg)](https://www.youtube.com/watch?v=RYntXWKDqLo&list=PLVsNizTWUw7HfOCgvlfHIDPPo3TE-2iQM&index=31)
+- https://www.youtube.com/watch?v=eYdjpoBybNQ&list=PLVsNizTWUw7HfOCgvlfHIDPPo3TE-2iQM&index=15
+- https://www.youtube.com/watch?v=rPbquztSupM&list=PLVsNizTWUw7HfOCgvlfHIDPPo3TE-2iQM&index=20
+- https://www.youtube.com/watch?v=bI8woqPQFWg&list=PLVsNizTWUw7HfOCgvlfHIDPPo3TE-2iQM&index=21
+- https://www.youtube.com/watch?v=aVvr1Rz5zRo&list=PLVsNizTWUw7HfOCgvlfHIDPPo3TE-2iQM&index=22
+- https://www.youtube.com/watch?v=WEUQ559AWEw&list=PLVsNizTWUw7HfOCgvlfHIDPPo3TE-2iQM&index=24
+- https://www.youtube.com/watch?v=YR6Wlhs8uk0&list=PLVsNizTWUw7HfOCgvlfHIDPPo3TE-2iQM&index=25
+- https://www.youtube.com/watch?v=SJgnp7JZ3xE&list=PLVsNizTWUw7HfOCgvlfHIDPPo3TE-2iQM&index=26
+- https://www.youtube.com/watch?v=GEQZ3f6Pji8&list=PLVsNizTWUw7HfOCgvlfHIDPPo3TE-2iQM&index=29
+- https://www.youtube.com/watch?v=RYntXWKDqLo&list=PLVsNizTWUw7HfOCgvlfHIDPPo3TE-2iQM&index=31
 
 - CIDR https://x.com/govardhana_mk/status/1985542543409316117
 
