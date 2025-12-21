@@ -15,9 +15,9 @@
 
 - https://www.youtube.com/watch?v=Z5JC9Ve1sfI
 - https://www.youtube.com/watch?v=pDELW2pIvWw
-- [![](https://img.youtube.com/vi/HjneAhCy2N4/mqdefault.jpg)](https://www.youtube.com/watch?v=HjneAhCy2N4&list=WL&index=2)
-- [![](https://img.youtube.com/vi/_Pqfjer8-O4/mqdefault.jpg)](https://www.youtube.com/watch?v=_Pqfjer8-O4&list=WL&index=4)
-- [![](https://img.youtube.com/vi/tadUeiNe5-g/mqdefault.jpg)](https://www.youtube.com/watch?v=tadUeiNe5-g&list=WL&index=4) (주변기기랑 통신)
+- https://www.youtube.com/watch?v=HjneAhCy2N4
+- https://www.youtube.com/watch?v=_Pqfjer8-O4
+- https://www.youtube.com/watch?v=tadUeiNe5-g (주변기기랑 통신)
 
 ## Harvard CS50
 
@@ -41,10 +41,10 @@
 
 ## 휴식
 
-- [![](https://img.youtube.com/vi/SiC74U8aJbM/mqdefault.jpg)](https://www.youtube.com/watch?v=SiC74U8aJbM) 안될과학 CPU (18분)
-- [![](https://img.youtube.com/vi/389itBs7YlE/mqdefault.jpg)](https://www.youtube.com/watch?v=389itBs7YlE) 안될과학 폰노이만
-- [![](https://img.youtube.com/vi/EL6AQl-e3AQ/mqdefault.jpg)](https://www.youtube.com/watch?v=EL6AQl-e3AQ&list=WL&index=2) 리눅스 명령어들
-- 리눅스 명령령어들 간단 https://x.com/livingdevops/status/1992911056210153769
+- https://www.youtube.com/watch?v=SiC74U8aJbM 안될과학 CPU (18분)
+- https://www.youtube.com/watch?v=389itBs7YlE 안될과학 폰노이만
+- https://www.youtube.com/watch?v=EL6AQl-e3AQ 리눅스 명령어들
+- https://x.com/livingdevops/status/1992911056210153769 리눅스 명령령어들 간단
 
 ## C언어 심화
 
