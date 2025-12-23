@@ -19,6 +19,10 @@
 - https://www.youtube.com/watch?v=_Pqfjer8-O4
 - https://www.youtube.com/watch?v=tadUeiNe5-g (주변기기랑 통신)
 
+### 요건 호기심을 자극할만한 것들
+- https://www.youtube.com/watch?v=EAJL8NJN6Yk (당근 발표중에 공간데이터 다루기)
+- https://www.youtube.com/watch?v=rtrTwtYTF4M (프롬프팅)
+
 ## 1. 프로그래밍 기초
 
 ### Harvard CS50
@@ -266,4 +270,3 @@ Deep Learning for computer vision. Stanford, by Fei-Fei Li et al.
 - [![](https://img.youtube.com/vi/-J_xL4IGhJA/default.jpg)](https://www.youtube.com/watch?v=-J_xL4IGhJA&list=PLE18841CABEA24090)
 
 
-- https://www.youtube.com/watch?v=EAJL8NJN6Yk (당근 발표중에 공간데이터 다루기)
