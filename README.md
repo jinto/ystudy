@@ -41,6 +41,8 @@
 - L9 Flask
 - L10 end
 
+- https://missing-semester-kr.github.io/ (쉘, vim, git...  - MIT Missing Semester of Your CS Education)
+
 ## 휴식
 
 - https://www.youtube.com/watch?v=SiC74U8aJbM 안될과학 CPU (18분)
@@ -123,15 +125,24 @@ Chap1 그냥 듣는 것으로 충분.
 
 여러가지 만들어볼만한 것들
 
-- 이렇게 생긴 틱택토 https://x.com/skshmgpt/status/1992942145045754269
-- 핀볼머신 https://x.com/ProfMatsuoka/status/1985093919244529701
-- 계획 : https://chatgpt.com/c/690cdbda-9198-8320-85f9-c194d9bedc30
-- 추가 자료 : dokumen.pub_tiny-c-projects-9781633439825.pdf
+- https://x.com/skshmgpt/status/1992942145045754269 (이렇게 생긴 틱택토 )
+- https://x.com/ProfMatsuoka/status/1985093919244529701 핀볼머신 )
+- https://chatgpt.com/c/690cdbda-9198-8320-85f9-c194d9bedc30 (계획)
+- dokumen.pub_tiny-c-projects-9781633439825.pdf (추가 자료)
 - https://github.com/dexter-xD/project-box/
 - https://www.freecodecamp.org/news/how-to-build-a-tic-tac-toe-game-with-phaserjs/#heading-what-is-phaserjs (js로 틱택토 만들기)
 - https://x.com/denicmarko/status/1996980070884290948 (js로 블럭깨기?)
 - https://github.com/labex-labs/practice-c-programming-projects (C 언어. 게임들 등등 모음.)
 - https://x.com/_trish_xD/status/1989365305811058731 (QR코드 생성기)
+- https://x.com/eltau88/status/2001602269360554438 (판타지 언어)
+- 기타
+ - 🖥️ CLI Tools : Calculator, To-Do App, File Organizer
+ - 🌐 Web Apps : Resume Rater, CRUD App, PDF Generator
+ - 🔌 APIs : Weather App, Bookstore API, Discord Bot
+ - 🤖 Automation : Job Tracker, Email Bot, Notion Integrations
+ - 🧠 ML + Data : Stock Predictor, Resume Parser, Fake News Detector
+
+
 
 ## === 여기부터는 심화 전공스러운. ===
 
@@ -254,3 +265,5 @@ Deep Learning for computer vision. Stanford, by Fei-Fei Li et al.
 
 - [![](https://img.youtube.com/vi/-J_xL4IGhJA/default.jpg)](https://www.youtube.com/watch?v=-J_xL4IGhJA&list=PLE18841CABEA24090)
 
+
+- https://www.youtube.com/watch?v=EAJL8NJN6Yk (당근 발표중에 공간데이터 다루기)
