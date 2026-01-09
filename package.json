@@ -1,0 +1,33 @@
+{
+  "name": "ystudy",
+  "version": "1.0.0",
+  "description": "[![](https://img.youtube.com/vi/Fg00LN30Ezg/default.jpg)](https://www.youtube.com/watch?v=Fg00LN30Ezg) bRd 3D",
+  "main": "index.js",
+  "scripts": {
+    "start": "docusaurus start",
+    "build": "docusaurus build",
+    "serve": "docusaurus serve",
+    "deploy": "docusaurus deploy",
+    "clear": "docusaurus clear"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinto/ystudy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jinto/ystudy/issues"
+  },
+  "homepage": "https://github.com/jinto/ystudy#readme",
+  "dependencies": {
+    "@docusaurus/core": "^3.9.2",
+    "@docusaurus/preset-classic": "^3.9.2",
+    "@giscus/react": "^3.1.0",
+    "clsx": "^2.1.1",
+    "prism-react-renderer": "^2.4.1",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  }
+}
