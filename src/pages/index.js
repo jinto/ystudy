@@ -47,7 +47,7 @@ const courses = [
     thumbnail: '/img/thumbnails/network.png',
   },
   {
-    title: 'Tiny Projects',
+    title: '7. Tiny Projects',
     description: '작은 프로젝트 아이디어',
     link: '/docs/tiny-projects/intro',
     thumbnail: '/img/thumbnails/projects.png',
@@ -56,25 +56,25 @@ const courses = [
 
 const advancedCourses = [
   {
-    title: '7. 컴퓨터 구조',
+    title: '8. 컴퓨터 구조',
     description: 'CPU 아키텍처, 캐시',
     link: '/docs/architecture/intro',
     thumbnail: '/img/thumbnails/architecture.png',
   },
   {
-    title: '8. 운영체제',
+    title: '9. 운영체제',
     description: '프로세스, 메모리 관리',
     link: '/docs/os/intro',
     thumbnail: '/img/thumbnails/os.png',
   },
   {
-    title: '9. OOP',
+    title: '10. OOP',
     description: 'Java, C++',
     link: '/docs/oop/intro',
     thumbnail: '/img/thumbnails/oop.png',
   },
   {
-    title: '10. ML',
+    title: '11. ML',
     description: '머신러닝 기초',
     link: '/docs/ml/intro',
     thumbnail: '/img/thumbnails/ml.png',
