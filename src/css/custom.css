@@ -82,28 +82,29 @@
   flex-shrink: 0;
 }
 
-/* YouTube video link with play button overlay */
-article a[href*="youtube.com"],
-article a[href*="youtu.be"] {
+/* YouTube video link with play button overlay (only for image links) */
+article a[href*="youtube.com"]:has(img),
+article a[href*="youtu.be"]:has(img) {
   position: relative;
   display: inline-block;
 }
 
-article a[href*="youtube.com"] img,
-article a[href*="youtu.be"] img {
+article a[href*="youtube.com"]:has(img) img,
+article a[href*="youtu.be"]:has(img) img {
   border-radius: 8px;
   transition: transform 0.2s, box-shadow 0.2s;
+  display: block;
 }
 
-article a[href*="youtube.com"]:hover img,
-article a[href*="youtu.be"]:hover img {
+article a[href*="youtube.com"]:has(img):hover img,
+article a[href*="youtu.be"]:has(img):hover img {
   transform: scale(1.02);
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
 }
 
 /* Play button overlay */
-article a[href*="youtube.com"]::after,
-article a[href*="youtu.be"]::after {
+article a[href*="youtube.com"]:has(img)::after,
+article a[href*="youtu.be"]:has(img)::after {
   content: "▶";
   position: absolute;
   top: 50%;
@@ -113,17 +114,16 @@ article a[href*="youtu.be"]::after {
   height: 60px;
   background: rgba(255, 0, 0, 0.85);
   border-radius: 12px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
   font-size: 24px;
   color: white;
   pointer-events: none;
   transition: background 0.2s, transform 0.2s;
+  line-height: 60px;
+  text-align: center;
 }
 
-article a[href*="youtube.com"]:hover::after,
-article a[href*="youtu.be"]:hover::after {
+article a[href*="youtube.com"]:has(img):hover::after,
+article a[href*="youtu.be"]:has(img):hover::after {
   background: rgba(255, 0, 0, 1);
   transform: translate(-50%, -50%) scale(1.1);
 }
