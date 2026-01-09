@@ -21,7 +21,7 @@
 
 ### 요건 호기심을 자극할만한 것들
 - https://www.youtube.com/watch?v=EAJL8NJN6Yk (당근 발표중에 공간데이터 다루기)
-- https://www.youtube.com/watch?v=rtrTwtYTF4M (프롬프팅)
+- https://www.youtube.com/watch?v=rtrTwtYTF4M (프롬프팅. 이건 연구하고 싶은 소재)
 
 ## 1. 프로그래밍 기초
 
@@ -146,6 +146,8 @@ Chap1 그냥 듣는 것으로 충분.
  - 🤖 Automation : Job Tracker, Email Bot, Notion Integrations
  - 🧠 ML + Data : Stock Predictor, Resume Parser, Fake News Detector
 
+- 책 : 코딩트레이닝 (인사이트)
+
 
 
 ## === 여기부터는 심화 전공스러운. ===
@@ -241,6 +243,8 @@ Deep Learning for computer vision. Stanford, by Fei-Fei Li et al.
 - 리눅스 사용법(ssh, permissions) https://x.com/TowardsAws/status/1993673784667357664
 - [![](https://img.youtube.com/vi/lG90LZotrpo/default.jpg)](https://www.youtube.com/watch?v=lG90LZotrpo) Git Internal
 - [![](https://img.youtube.com/vi/fFHlfbKVi30/default.jpg)](https://www.youtube.com/watch?v=fFHlfbKVi30) neovim setup 일본방에서
+
+- 책 : Practical VIM (인사이트)
 
 ### 릿코드
 
