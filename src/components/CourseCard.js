@@ -5,11 +5,13 @@ export default function CourseCard({ title, description, link, thumbnail }) {
   return (
     <div className="course-card">
       {thumbnail && (
-        <img
-          src={thumbnail}
-          alt={title}
-          loading="lazy"
-        />
+        <Link to={link}>
+          <img
+            src={thumbnail}
+            alt={title}
+            loading="lazy"
+          />
+        </Link>
       )}
       <h3>{title}</h3>
       <p>{description}</p>
