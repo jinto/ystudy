@@ -1,6 +1,5 @@
 ---
 sidebar_position: 1
-slug: /docs
 ---
 
 # 커리큘럼

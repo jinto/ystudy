@@ -90,29 +90,31 @@ const advancedCourses = [
 export default function Home() {
   return (
     <Layout title="홈" description="컴퓨터 과학 학습 커리큘럼">
-      <main style={{ padding: '2rem' }}>
-        <div style={{ maxWidth: '1200px', margin: '0 auto' }}>
-          <h1>YStudy 커리큘럼</h1>
-          <p>컴퓨터 과학 기초부터 심화까지 체계적으로 학습하세요.</p>
+      <main style={{ padding: '1.5rem 1rem' }}>
+        <div style={{ maxWidth: '900px', margin: '0 auto' }}>
+          <h1 style={{ fontSize: '1.5rem', marginBottom: '0.25rem' }}>YStudy</h1>
+          <p style={{ color: 'var(--ifm-color-emphasis-600)', marginBottom: '1rem', fontSize: '0.9rem' }}>
+            컴퓨터 과학 기초부터 심화까지
+          </p>
 
-          <h2>기초 과정</h2>
+          <h2 style={{ fontSize: '1rem', marginBottom: '0.5rem' }}>기초 과정</h2>
           <div className="card-grid">
             {courses.map((course, idx) => (
               <CourseCard key={idx} {...course} />
             ))}
           </div>
 
-          <h2 style={{ marginTop: '3rem' }}>심화 과정</h2>
+          <h2 style={{ fontSize: '1rem', marginTop: '1.5rem', marginBottom: '0.5rem' }}>심화 과정</h2>
           <div className="card-grid">
             {advancedCourses.map((course, idx) => (
               <CourseCard key={idx} {...course} />
             ))}
           </div>
 
-          <div style={{ marginTop: '3rem', textAlign: 'center' }}>
+          <div style={{ marginTop: '1.5rem', textAlign: 'center' }}>
             <Link
-              className="button button--primary button--lg"
-              to="/docs"
+              className="button button--primary"
+              to="/docs/intro"
             >
               전체 커리큘럼 보기
             </Link>

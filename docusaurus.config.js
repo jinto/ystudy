@@ -27,6 +27,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: 'docs',
+          exclude: ['**/CLAUDE.md'],
         },
         blog: false,
         theme: {

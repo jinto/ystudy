@@ -6,19 +6,18 @@ export default function CourseCard({ title, description, link, thumbnail }) {
   const thumbnailUrl = useBaseUrl(thumbnail);
 
   return (
-    <div className="course-card">
+    <Link to={link} className="course-card">
       {thumbnail && (
-        <Link to={link}>
-          <img
-            src={thumbnailUrl}
-            alt={title}
-            loading="lazy"
-          />
-        </Link>
+        <img
+          src={thumbnailUrl}
+          alt={title}
+          loading="lazy"
+        />
       )}
-      <h3>{title}</h3>
-      <p>{description}</p>
-      <Link to={link}>자세히 보기 →</Link>
-    </div>
+      <div className="card-content">
+        <h3>{title}</h3>
+        <p>{description}</p>
+      </div>
+    </Link>
   );
 }
